@@ -1,2 +1,2 @@
 # Projets_Reseau_Landry
-Mes projets en Reseaux, Cybersecurite et Python.
+Mes projets en Réseaux, Cybersécurité et Python.
