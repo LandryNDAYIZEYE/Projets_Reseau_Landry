@@ -1,5 +1,5 @@
 # Projets_Reseau_Landry
-Mes projets en Réseaux, Cybersécurité util# 👨‍💻 NDAYIZEYE Landry
+Mes projets en Réseaux, Cybersécurité et Python
 
 ### 🎓 À propos de moi
 Je suis diplômé en **Informatique, Télécommunications et Réseaux** (Université des Grands Lacs – Bujumbura, Burundi).  
